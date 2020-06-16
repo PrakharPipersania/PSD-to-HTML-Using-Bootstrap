@@ -1,0 +1,58 @@
+.Logo {
+	text-align: center;
+	color: #89CFF0;
+}
+.nav_mid {
+	text-align: center;
+	color: #000000;
+	padding: 20px;
+}
+.jumbotron {
+	background-image: url(../images/home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffffff;
+}
+.btn {
+	background-color: #2DB5B0;
+	color: #ffffff;
+	border-width: 0px;
+}
+.button {
+    background-color: #000;
+    border-width: 0px;
+    font-size: 20px;
+    margin-bottom: 3px;
+    border-radius: 0px;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: color .15s
+}
+.button1 {
+    background-color: #ffffff;
+    color: #000;
+    border-width: 0px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    margin-bottom: 3px;
+    border-radius: 0px;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: color .15s
+}
+.button1:hover {
+  background-color: #ffffff;
+  color: #2DB5B0;
+}
